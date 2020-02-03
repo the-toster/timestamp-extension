@@ -1,0 +1,14 @@
+{
+  "name": "timestamp-extension",
+  "version": "0.1.0",
+  "description": "добавляет в контекстное меню конвертацию выбранного числа из таймстемпа в человекочитаемый вид",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/firefox-webext-browser": "^70.0.1"
+  }
+}
